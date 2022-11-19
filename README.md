@@ -1,4 +1,4 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://react-415fb.web.app).
+Start this project in web [React-notes](https://react-415fb.web.app).
 
